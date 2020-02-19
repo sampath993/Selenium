@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="151321" started-at="2020-02-11T18:36:01 IST" finished-at="2020-02-11T18:38:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="151321" started-at="2020-02-11T18:36:01 IST" finished-at="2020-02-11T18:38:33 IST">
+      <class name="MarketingTest.TestMarketing">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:MarketingTest.TestMarketing@5a8806ef]" name="setUp" is-config="true" duration-ms="20713" started-at="2020-02-11T18:36:01 IST" finished-at="2020-02-11T18:36:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Validate_Markeing_Page()[pri:1, instance:MarketingTest.TestMarketing@5a8806ef]" name="Validate_Markeing_Page" duration-ms="28145" started-at="2020-02-11T18:36:22 IST" finished-at="2020-02-11T18:36:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Markeing_Page -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:MarketingTest.TestMarketing@5a8806ef]" name="TearDown" is-config="true" duration-ms="532" started-at="2020-02-11T18:36:50 IST" finished-at="2020-02-11T18:36:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:MarketingTest.TestMarketing@5a8806ef]" name="setUp" is-config="true" duration-ms="12737" started-at="2020-02-11T18:36:51 IST" finished-at="2020-02-11T18:37:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Validate_AMO_Page()[pri:2, instance:MarketingTest.TestMarketing@5a8806ef]" name="Validate_AMO_Page" duration-ms="16608" started-at="2020-02-11T18:37:03 IST" finished-at="2020-02-11T18:37:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_AMO_Page -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:MarketingTest.TestMarketing@5a8806ef]" name="TearDown" is-config="true" duration-ms="534" started-at="2020-02-11T18:37:20 IST" finished-at="2020-02-11T18:37:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:MarketingTest.TestMarketing@5a8806ef]" name="setUp" is-config="true" duration-ms="12458" started-at="2020-02-11T18:37:21 IST" finished-at="2020-02-11T18:37:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Validate_Features_Page()[pri:3, instance:MarketingTest.TestMarketing@5a8806ef]" name="Validate_Features_Page" duration-ms="28304" started-at="2020-02-11T18:37:33 IST" finished-at="2020-02-11T18:38:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Features_Page -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:MarketingTest.TestMarketing@5a8806ef]" name="TearDown" is-config="true" duration-ms="537" started-at="2020-02-11T18:38:01 IST" finished-at="2020-02-11T18:38:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:MarketingTest.TestMarketing@5a8806ef]" name="setUp" is-config="true" duration-ms="14003" started-at="2020-02-11T18:38:02 IST" finished-at="2020-02-11T18:38:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Validate_PRL_Page()[pri:4, instance:MarketingTest.TestMarketing@5a8806ef]" name="Validate_PRL_Page" duration-ms="16153" started-at="2020-02-11T18:38:16 IST" finished-at="2020-02-11T18:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_PRL_Page -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:MarketingTest.TestMarketing@5a8806ef]" name="TearDown" is-config="true" duration-ms="533" started-at="2020-02-11T18:38:32 IST" finished-at="2020-02-11T18:38:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- MarketingTest.TestMarketing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
